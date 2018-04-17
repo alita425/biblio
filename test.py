@@ -82,3 +82,5 @@ g = open("nouv_cata","w")
 for i in res:
 	g.write(i)
 g.close()
+
+# ceci est un test pour git !!! >.<
